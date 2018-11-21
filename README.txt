@@ -16,7 +16,7 @@ If the device is online the table will be filled and data will be shown on the s
 Used:
 - MVVM architecture(databinding)
 - ROOM for storing data.
-- RESTROFIT - for the network layer.
+- RETROFIT - for the network layer.
 
 
 
